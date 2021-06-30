@@ -1,8 +1,8 @@
 # Amazon_Vine_Analysis
-Using PySpark to do analysis on 5 star Amazon reviews from the Vine Program for apparel
+Using PySpark to do analysis on 5 star Amazon reviews from the Vine Program
 
 ## Overview of the Analysis
-The purpose of this analysis was to determine of there was any bias towards reviews that were written as part of the Vine program. To do this, we figured out the percentage of how many reviews that were 5 stars from both the Vine Program and not the Vine program.
+The purpose of this analysis was to determine of there was any bias towards reviews that were written as part of the Vine program. To do this, we figured out the percentage of how many reviews that were 5 stars from both the Vine Program and not the Vine program. THese percentages were then used to come up with our conclusion.
 
 ## Results
 #### Total Vine Reviews
