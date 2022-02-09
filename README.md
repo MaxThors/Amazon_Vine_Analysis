@@ -21,7 +21,7 @@ There were 15 total 5 star reviews from the Vine Program.
 ![](Resources/Vine_5Star.PNG)
 
 #### Total non-Vine 5 Star Reviews
-There were 23,733 tot 5 star non-Vine reviews.
+There were 23,733 total 5 star non-Vine reviews.
 
 ![](Resources/Non_Vine_5Star.PNG)
 
